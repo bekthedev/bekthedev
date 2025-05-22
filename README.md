@@ -32,15 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekthedev&layout=compact&theme=default" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bekthedev&theme=github" alt="Contribution Graph" />
-</p>
-
----
 
 _Thanks for stopping by — feel free to fork, follow, or connect!_
