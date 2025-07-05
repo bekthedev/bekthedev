@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/bekthedev/bekthedev/assets/banner.png" alt="Bek the Dev banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hey, I’m Bek Johansson (@bekthedev)</h1>
 
